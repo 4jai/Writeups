@@ -1,7 +1,7 @@
 # Reconnaissance
 
 We start the the recon process by using nmap
-`nmap -sC -sV 192.168.0.25
+`nmap -sC -sV 192.168.0.25`
 
 ![nmap scan](imgs/nmap.png)
 
