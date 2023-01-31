@@ -3,7 +3,7 @@
 We start the the recon process by using nmap
 `nmap -sC -sV 192.168.0.25`
 
-![nmap scan](nmap.png)
+![nmap scan](imgs/nmap.png)
 
 The machine contain common 2 port that is http and ssh port. First let's view the http port in the web browser.
 
